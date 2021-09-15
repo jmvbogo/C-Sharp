@@ -1,4 +1,4 @@
 # C-Sharp
-> Proof of concept
-
-###### New England Institue of Technology
+>Proof of Concept Using C#
+ 
+ ###### New England Institue of Technology
