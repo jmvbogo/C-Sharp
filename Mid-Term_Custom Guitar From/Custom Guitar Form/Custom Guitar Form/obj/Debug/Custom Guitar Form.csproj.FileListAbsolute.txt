@@ -1,0 +1,18 @@
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\bin\Debug\Custom Guitar Form.exe.config
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\bin\Debug\Custom Guitar Form.exe
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\bin\Debug\Custom Guitar Form.pdb
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom Guitar Form.csprojResolveAssemblyReference.cache
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom_Guitar_Form.Form1.resources
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom_Guitar_Form.Properties.Resources.resources
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom Guitar Form.csproj.GenerateResource.Cache
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom Guitar Form.exe
+E:\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom Guitar Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\bin\Debug\Custom Guitar Form.exe.config
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\bin\Debug\Custom Guitar Form.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\bin\Debug\Custom Guitar Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom_Guitar_Form.Form1.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom_Guitar_Form.Properties.Resources.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom Guitar Form.csproj.GenerateResource.Cache
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom Guitar Form.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom Guitar Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Mid-Term_Custom Guitar From\Custom Guitar Form\Custom Guitar Form\obj\Debug\Custom Guitar Form.csprojResolveAssemblyReference.cache

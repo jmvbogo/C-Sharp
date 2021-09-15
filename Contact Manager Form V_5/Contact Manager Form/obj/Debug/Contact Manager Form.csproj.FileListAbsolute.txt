@@ -1,0 +1,75 @@
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\bin\Debug\Contact Manager Form.exe
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\bin\Debug\Contact Manager Form.pdb
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\obj\Debug\Contact Manager Form.csprojResolveAssemblyReference.cache
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\obj\Debug\Contact_Manager_Form.Form1.resources
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\obj\Debug\Contact_Manager_Form.Properties.Resources.resources
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\obj\Debug\Contact Manager Form.csproj.GenerateResource.Cache
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+E:\school\_SE245.04 (C#)\Contact Manager Form\Contact Manager Form\obj\Debug\Contact Manager Form.pdb
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact Manager Form.pdb
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\bin\Debug\Contact Manager Form.exe
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\bin\Debug\Contact Manager Form.pdb
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact_Manager_Form.Form1.resources
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact_Manager_Form.Properties.Resources.resources
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact Manager Form.csproj.GenerateResource.Cache
+E:\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact Manager Form.csprojResolveAssemblyReference.cache
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact Manager Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\bin\Debug\Contact Manager Form.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\bin\Debug\Contact Manager Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact Manager Form.csprojResolveAssemblyReference.cache
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact_Manager_Form.Form1.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact_Manager_Form.Properties.Resources.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_2\Contact Manager Form\obj\Debug\Contact Manager Form.csproj.GenerateResource.Cache
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\obj\Debug\Contact Manager Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\bin\Debug\Contact Manager Form.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\bin\Debug\Contact Manager Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\obj\Debug\Contact Manager Form.csprojResolveAssemblyReference.cache
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\obj\Debug\Contact_Manager_Form.Form1.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\obj\Debug\Contact_Manager_Form.Properties.Resources.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_3\Contact Manager Form\obj\Debug\Contact Manager Form.csproj.GenerateResource.Cache
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact Manager Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\bin\Debug\Contact Manager Form.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\bin\Debug\Contact Manager Form.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact Manager Form.csprojResolveAssemblyReference.cache
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact_Manager_Form.Form1.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact_Manager_Form.Properties.Resources.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact Manager Form.csproj.GenerateResource.Cache
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact Manager Form.pdb
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\bin\Debug\Contact Manager Form.exe
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\bin\Debug\Contact Manager Form.pdb
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact Manager Form.csprojResolveAssemblyReference.cache
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact_Manager_Form.Form1.resources
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact_Manager_Form.Properties.Resources.resources
+E:\school\_SE245.04 (C#)\Contact Manager Form V_4\Contact Manager Form\obj\Debug\Contact Manager Form.csproj.GenerateResource.Cache
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.pdb
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\bin\Debug\Contact Manager Form.exe
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\bin\Debug\Contact Manager Form.pdb
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.csprojResolveAssemblyReference.cache
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact_Manager_Form.Form1.resources
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact_Manager_Form.Properties.Resources.resources
+E:\school\_SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.csproj.GenerateResource.Cache
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.pdb
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\bin\Debug\Contact Manager Form.exe
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\bin\Debug\Contact Manager Form.pdb
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.csprojResolveAssemblyReference.cache
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact_Manager_Form.Form1.resources
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact_Manager_Form.Properties.Resources.resources
+F:\school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.csproj.GenerateResource.Cache
+D:\_school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\bin\Debug\Contact Manager Form.exe.config
+D:\_school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.exe
+D:\_school\SE245.04 (C#)\Contact Manager Form V_5\Contact Manager Form\obj\Debug\Contact Manager Form.pdb

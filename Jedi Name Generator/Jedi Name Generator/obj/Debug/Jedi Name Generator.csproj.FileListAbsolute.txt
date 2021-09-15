@@ -1,0 +1,9 @@
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\bin\Debug\Jedi Name Generator.exe.config
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\obj\Debug\Jedi_Name_Generator.Form1.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\obj\Debug\Jedi_Name_Generator.Properties.Resources.resources
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\obj\Debug\Jedi Name Generator.csproj.GenerateResource.Cache
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\bin\Debug\Jedi Name Generator.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\bin\Debug\Jedi Name Generator.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\obj\Debug\Jedi Name Generator.exe
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\obj\Debug\Jedi Name Generator.pdb
+C:\Users\Jordan-Michael\Desktop\school\_SE245.04 (C#)\Jedi Name Generator\Jedi Name Generator\Jedi Name Generator\obj\Debug\Jedi Name Generator.csprojResolveAssemblyReference.cache
